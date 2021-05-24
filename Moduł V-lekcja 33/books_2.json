@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "name": "Wypożyczalnia Główna",
+  "books": [
+    {
+      "author_name": "Jarosław",
+      "author_surname": "Grzędowicz",
+      "title": "Pan Lodowego Ogrodu tom I"
+    },
+    {
+      "author_name": "Brandon",
+      "author_surname": "Sanderson",
+      "title": "Droga Królów"
+    },
+    {
+      "author_name": "Andrzej",
+      "author_surname": "Ziemiański",
+      "title": "Achaja tom I"
+    }
+  ]
+}
